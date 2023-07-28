@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53d47f5f-65fe-42b3-9156-055f2ecf57c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Principal/PrincipalComListas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDoTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDoTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal/PrincipalComListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;/home/bruno/IdeaProjects/2858-java-screenmatch&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.PrincipalComListas">
     <configuration name="CalculadoraDoTempo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.calculos.CalculadoraDoTempo" />
       <module name="alura-screenmatch" />
@@ -79,9 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrincipalComListas" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.CalculadoraDoTempo" />
-        <item itemvalue="Application.PrincipalComListas" />
       </list>
     </recent_temporary>
   </component>
